@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**baladriyadav/baladriyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Large language model and RAG implimentation
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: calltokuspari@gmail.com
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I am learning
--->
+
